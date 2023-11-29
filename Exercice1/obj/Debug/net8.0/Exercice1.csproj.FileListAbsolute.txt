@@ -1,0 +1,14 @@
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.AssemblyInfoInputs.cache
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.AssemblyInfo.cs
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.csproj.CoreCompileInputs.cache
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\bin\Debug\net8.0\Exercice1.exe
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\bin\Debug\net8.0\Exercice1.deps.json
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\bin\Debug\net8.0\Exercice1.runtimeconfig.json
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\bin\Debug\net8.0\Exercice1.dll
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\bin\Debug\net8.0\Exercice1.pdb
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.dll
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\refint\Exercice1.dll
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.pdb
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\Exercice1.genruntimeconfig.cache
+Q:\Motion de cours 3\C#\Chapitre 1\Exercice1\obj\Debug\net8.0\ref\Exercice1.dll
